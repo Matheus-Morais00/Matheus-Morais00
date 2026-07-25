@@ -28,9 +28,9 @@
 
 # GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheus-Morais00&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats-matheus-2995.vercel.app/api?username=Matheus-Morais00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Morais00&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats-matheus-2995.vercel.app/api/top-langs/?username=Matheus-Morais00&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
