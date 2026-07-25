@@ -2,11 +2,11 @@
 
 # Olá, eu sou o Matheus
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Flutter+Developer;Back-end+Developer;API+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Flutter+Developer;Back-end+Developer;API+Developer" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Matheus-Morais00&style=for-the-badge&color=3B82F6"/>
+<img src="https://komarev.com/ghpvc/?username=Matheus-Morais00&style=for-the-badge&color=9CA3AF"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=flutter,php,laravel,react,js,py,lua,java,html,css&perline=5"/>
+<img src="https://skillicons.dev/icons?i=flutter,php,laravel,react,js,py,lua,java,html,css&perline=5&theme=dark"/>
 
 </div>
 
@@ -28,9 +28,9 @@
 
 # GitHub Stats
 
-<img height="170" src="https://github-readme-stats-matheus-2995.vercel.app/api?username=Matheus-Morais00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-matheus-2995.vercel.app/api?username=Matheus-Morais00&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=9CA3AF&icon_color=9CA3AF&text_color=C9C9C9"/>
 
-<img height="170" src="https://github-readme-stats-matheus-2995.vercel.app/api/top-langs/?username=Matheus-Morais00&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-matheus-2995.vercel.app/api/top-langs/?username=Matheus-Morais00&layout=compact&hide_border=true&bg_color=0D1117&title_color=9CA3AF&text_color=C9C9C9"/>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 # Sequência de Contribuições
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Matheus-Morais00&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Matheus-Morais00&hide_border=true&background=0D1117&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=808080&currStreakNum=C9C9C9&sideNums=C9C9C9"/>
 
 </div>
 
@@ -81,6 +81,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3B82F6&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9CA3AF&section=footer"/>
 
 </div>
