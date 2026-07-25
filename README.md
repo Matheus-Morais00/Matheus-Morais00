@@ -2,11 +2,11 @@
 
 # Olá, eu sou o Matheus
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;Back-end+Developer;API+Developer" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=3B82F6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Matheus-Morais00&label=Visualizações&color=3B82F6&style=for-the-badge"/>
 
 </div>
 
@@ -28,13 +28,13 @@
 
 # GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Morais00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Morais00&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Matheus-Morais00&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -45,8 +45,8 @@
 - Curso Técnico em Desenvolvimento de Sistemas
 - Gosto bastante de Front-end e Back-end
 - Gosto de estudar e criar várias interfaces de teste
-- Aprendendo Java e PHP
-- Buscando sempre melhorar
+- Atualmente aprendendo Java e PHP
+- Buscando sempre melhorar como desenvolvedor
 
 ---
 
@@ -55,7 +55,7 @@
 - Aprender Java
 - Evoluir no Back-end
 - Criar APIs e sistemas Back-end poderosos
-- Trabalhar com Back-end
+- Trabalhar profissionalmente com Back-end
 
 ---
 
@@ -63,7 +63,7 @@
 
 # Conquistas
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Matheus-Morais00&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -73,7 +73,7 @@
 
 # Atividade
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Morais00&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
