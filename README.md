@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Matheus-Morais00&style=for-the-badge&color=9CA3AF"/>
+
 
 </div>
 
