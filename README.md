@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.jpg" width="100%" alt="banner"/>
+</p>
+
 <div align="center">
 
 # Olá, eu sou o Matheus
@@ -6,7 +10,7 @@
 
 <br>
 
-
+<img src="https://komarev.com/ghpvc/?username=Matheus-Morais00&style=for-the-badge&color=9CA3AF"/>
 
 </div>
 
